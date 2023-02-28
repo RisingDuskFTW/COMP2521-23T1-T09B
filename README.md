@@ -2,7 +2,7 @@
 
 Code created during my T09B tutorials for COMP2521 in 23T1
 
-## Week 1
+## Week 1: Introduction to COMP2521
 
 - Introductions
 - New C Syntax Q1: For Loops
@@ -11,7 +11,7 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - Linked List Revision Q2: Summing a list
 - Linked List Revision Q3: Deleting a value
 
-## Week 2
+## Week 2: Compilation and Recursion
 
 - Compilation Q2: Makefiles
 - Compilation Q3: Header Files
@@ -20,3 +20,12 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - Recursion Q3: Checking a list is sorted
 - Recursion Q5: Deleting even values
 - Recursion Q6: Fibonnaci and limitations in recursion (no code)
+
+## Week 3: Time Complexity
+
+- Two Loops
+- Q1: Palindrome
+- Q2: Two Sum
+- Q4: Binary Conversion
+- Q6: Print Permutation
+- Complexity Test
