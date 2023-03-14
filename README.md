@@ -32,10 +32,19 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 
 ## Week 4: Binary Search Trees
 
-Q1: Insertion
-Q2: Traversal
-Q3: Count num nodes
-Q4: Count odd numbers
-Q5: Find height
-Q6: Count internal nodes
-Q8: Count Greater than val
+- Q1: Insertion
+- Q2: Traversal
+- Q3: Count num nodes
+- Q4: Count odd numbers
+- Q5: Find height
+- Q6: Count internal nodes
+- Q8: Count Greater than val
+
+## Week 5: AVL Trees, 2-3-4 Trees, Graph Basics
+
+- Week 4 Q10: Tree Rotation
+- Week 4 Q11: Tree Rotation
+- AVL Trees Q1: Inserting into an AVL Tree
+- AVL Trees Q2: Creating an AVL Tree
+- 2-3-4 Trees Q1: Creating and inserting into a 2-3-4 Tree
+- Graph Basics Q1: Graph Representations
