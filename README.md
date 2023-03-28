@@ -48,3 +48,13 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - AVL Trees Q2: Creating an AVL Tree
 - 2-3-4 Trees Q1: Creating and inserting into a 2-3-4 Tree
 - Graph Basics Q1: Graph Representations
+
+## Week 7: Graphs and Graph Traversals
+
+- Graph Representations Q1: Terminology
+- Graph Representations Q2: Adjacency Matrix
+- Graph Representations Q3: Road Map
+- Graph Traversal Q1: Breadth First Search & Depth First Search
+- Graph Theory Q1: More Terminology
+- Graph Theory Q3: Euler / Hamiltonian Paths & Circuits
+- Graph Theory Q5: Hamiltonian Path / Circuit
