@@ -58,3 +58,12 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - Graph Theory Q1: More Terminology
 - Graph Theory Q3: Euler / Hamiltonian Paths & Circuits
 - Graph Theory Q5: Hamiltonian Path / Circuit
+
+## Week 8: Graphs and Graph Algorithms
+
+- Q1: Reachability
+- Q2: Reachability
+- Q3: Directed and Weighted Graphs
+- Q4: Shortest Path (Dijkstra's Algorithm)
+- Q5: Minimum Spanning Tree (Kruskal's Algorithm)
+- Q6: Minimum Spanning Tree (Prim's Algorithm)
