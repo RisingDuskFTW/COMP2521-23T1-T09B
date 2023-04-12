@@ -67,3 +67,11 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - Q4: Shortest Path (Dijkstra's Algorithm)
 - Q5: Minimum Spanning Tree (Kruskal's Algorithm)
 - Q6: Minimum Spanning Tree (Prim's Algorithm)
+
+## Week 9: Sorting Algorithms
+
+- Q1: Sort Terminology
+- Q2: Stable Sorting
+- Q4: $O(n^2)$ Sorts (Bubble, Insertion, and Selection Sort)
+- Q5: Merge Sort
+- Q6: Quick Sort
