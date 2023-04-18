@@ -75,3 +75,11 @@ Code created during my T09B tutorials for COMP2521 in 23T1
 - Q4: $O(n^2)$ Sorts (Bubble, Insertion, and Selection Sort)
 - Q5: Merge Sort
 - Q6: Quick Sort
+
+## Week 10: Hashing, Heaps and Tries
+
+- Hashing Q3: Hash Collisions
+- Heaps Q9: Heap as Binary Tree
+- Heaps Q8: Heap as Array
+- Tries Q10: Tries
+- Kahoot
